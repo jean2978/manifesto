@@ -7,8 +7,32 @@ export const Patrik: React.FC = () => {
         <>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
-              style={{backgroundColor: 'black', color: 'white', textAlign: 'center', }}
-        >Bajs</motion.div>
+              style={{backgroundColor: 'purple', color: 'white', textAlign: 'center', }}
+        >R</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'blue', color: 'white', textAlign: 'center', }}
+        >A</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'turquoise', color: 'white', textAlign: 'center', }}
+        >I</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'greem', color: 'white', textAlign: 'center', }}
+        >N</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'yellow', color: 'white', textAlign: 'center', }}
+        >B</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'orange', color: 'white', textAlign: 'center', }}
+        >O</motion.div>
+        <motion.div 
+              whileTap={{ scale: 0.3 }} 
+              style={{backgroundColor: 'red', color: 'white', textAlign: 'center', }}
+        >W</motion.div>
         </>
     )
 }
