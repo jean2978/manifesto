@@ -8,7 +8,7 @@ export const Patrik: React.FC = () => {
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'black', color: 'white', textAlign: 'center', }}
-        >Bajskörv</motion.div>
+        >Bajs</motion.div>
         </>
     )
 }
