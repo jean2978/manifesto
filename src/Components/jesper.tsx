@@ -1,9 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { motion } from "framer-motion";
 
 export const Jesper: React.FC = () => {
-
-    const [count, setCount] = useState(true);
 
     return (
         <div style={{ position: "fixed", top: "50%", left: "50%" }}>

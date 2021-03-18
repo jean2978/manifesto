@@ -1,9 +1,7 @@
 import React from 'react';
 import { Form } from './Components/Form';
-import { Jesper } from './Components/jesper';
+import { Jesper } from './Components/Jesper';
 import { Patrik } from './Components/Patrik';
-// import logo from './logo.svg';
-// import './App.css';
 
 function App() {
   return (
