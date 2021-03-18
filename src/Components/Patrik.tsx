@@ -19,11 +19,11 @@ export const Patrik: React.FC = () => {
         >I</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
-              style={{backgroundColor: 'greem', color: 'white', textAlign: 'center', }}
+              style={{backgroundColor: 'green', color: 'white', textAlign: 'center', }}
         >N</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
-              style={{backgroundColor: 'yellow', color: 'white', textAlign: 'center', }}
+              style={{backgroundColor: 'yellow', color: 'black', textAlign: 'center', }}
         >B</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
