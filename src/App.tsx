@@ -1,12 +1,14 @@
 import React from 'react';
 import { Jesper } from './Components/jesper';
+import { Patrik } from './Components/Patrik';
 // import logo from './logo.svg';
 // import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{width: "100%" , height: "100%"}}>
       <Jesper />
+      <Patrik />
     </div>
   );
 }
