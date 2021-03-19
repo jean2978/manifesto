@@ -8,31 +8,31 @@ export const Patrik: React.FC = () => {
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'purple', color: 'white', textAlign: 'center', }}
-        >R</motion.div>
+        >RR</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'blue', color: 'white', textAlign: 'center', }}
-        >A</motion.div>
+        >AA</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'turquoise', color: 'white', textAlign: 'center', }}
-        >I</motion.div>
+        >II</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'green', color: 'white', textAlign: 'center', }}
-        >N</motion.div>
+        >NN</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'yellow', color: 'black', textAlign: 'center', }}
-        >B</motion.div>
+        >BB</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'orange', color: 'white', textAlign: 'center', }}
-        >O</motion.div>
+        >OO</motion.div>
         <motion.div 
               whileTap={{ scale: 0.3 }} 
               style={{backgroundColor: 'red', color: 'white', textAlign: 'center', }}
-        >W</motion.div>
+        >WW</motion.div>
         </>
     )
 }
